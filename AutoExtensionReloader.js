@@ -1,4 +1,4 @@
-class AutoExtensionReloader {
+export default class AutoExtensionReloader {
     constructor(options){
         this.options = options ? options : {}
     }
@@ -14,3 +14,4 @@ class AutoExtensionReloader {
         });
     }
 }
+
