@@ -1,6 +1,6 @@
 # What is this?
 
-this plugin allows developers to see the current status of their specific extension. get notification when the status change and it will reload the extension  after a build
+this plugin allows developers to see the current status of the building process of their specific extension. get notification when the status change and it will reload the extension after a build
 
 # Installation
 
